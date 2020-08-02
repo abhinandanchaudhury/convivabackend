@@ -11,4 +11,7 @@ Things yet to do:
 1. Change the structure of the services as versioning api. Like making customerservices.js and placing it under folder V1 and referencing it in customer.js. This will help in versioning our api and soomth transitioning.
 2. Logger needs to be put for easy debugging with log rotation of 1d.
 3. Connecting to db (relational if then Mysql will be preferred but it all depends on reporting and quering), if simple query we can use dynamodb or firestore. For a tradeoff between 2 world columnal db like casandra will be good choice.
+4. Code formatting and documentation.
+5. API testing needs to be written and performance benchmark can be done.
+6. Use of E-TAG can be implemented for caching.
 
