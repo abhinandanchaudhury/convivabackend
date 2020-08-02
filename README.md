@@ -14,4 +14,5 @@ Things yet to do:
 4. Code formatting and documentation.
 5. API testing needs to be written and performance benchmark can be done.
 6. Use of E-TAG can be implemented for caching.
+7. Pagination
 
